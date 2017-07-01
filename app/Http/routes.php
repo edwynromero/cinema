@@ -18,6 +18,8 @@ Route::get('prueba', function(){
 Route::get('/', 'WelcomeController@index');
 
 Route::get('home', 'HomeController@index');
+Route::resource('movie', 'MovieController');
+Route::get('controlador', 'PruebaController@index');
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',
