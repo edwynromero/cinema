@@ -1,4 +1,4 @@
-<?php namespace cinema\Providers;
+<?php namespace Cinema\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -27,7 +27,7 @@ class AppServiceProvider extends ServiceProvider {
 	{
 		$this->app->bind(
 			'Illuminate\Contracts\Auth\Registrar',
-			'cinema\Services\Registrar'
+			'Cinema\Services\Registrar'
 		);
 	}
 

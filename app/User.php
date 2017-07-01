@@ -1,4 +1,4 @@
-<?php namespace cinema;
+<?php namespace Cinema;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;

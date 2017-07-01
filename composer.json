@@ -16,7 +16,7 @@
 			"database"
 		],
 		"psr-4": {
-			"cinema\\": "app/"
+			"Cinema\\": "app/"
 		}
 	},
 	"autoload-dev": {

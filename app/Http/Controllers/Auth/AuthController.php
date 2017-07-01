@@ -1,6 +1,6 @@
-<?php namespace cinema\Http\Controllers\Auth;
+<?php namespace Cinema\Http\Controllers\Auth;
 
-use cinema\Http\Controllers\Controller;
+use Cinema\Http\Controllers\Controller;
 use Illuminate\Contracts\Auth\Guard;
 use Illuminate\Contracts\Auth\Registrar;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;

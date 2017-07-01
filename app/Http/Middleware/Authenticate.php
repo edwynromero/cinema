@@ -1,4 +1,4 @@
-<?php namespace cinema\Http\Middleware;
+<?php namespace Cinema\Http\Middleware;
 
 use Closure;
 use Illuminate\Contracts\Auth\Guard;

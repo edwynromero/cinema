@@ -1,4 +1,4 @@
-<?php namespace cinema\Providers;
+<?php namespace Cinema\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

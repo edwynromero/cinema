@@ -1,4 +1,4 @@
-<?php namespace cinema\Console\Commands;
+<?php namespace Cinema\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Foundation\Inspiring;
