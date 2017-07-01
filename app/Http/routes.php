@@ -11,6 +11,10 @@
 |
 */
 
+Route::get('prueba', function(){
+	return "hola desde route.php";
+
+});
 Route::get('/', 'WelcomeController@index');
 
 Route::get('home', 'HomeController@index');
